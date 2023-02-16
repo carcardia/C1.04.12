@@ -21,6 +21,7 @@ master.menu.anonymous = Anonymous
 master.menu.anonymous.favourite-link = 32732059T: López Ruz, Pedro
 master.menu.anonymous.favourite-link2= 45998672Y: Ortiz Blanco, Manuel
 master.menu.anonymous.favourite-link3= 53738719R: Carrasco Díaz, Carolina
+master.menu.anonymous.favourite-link3= 54183920z: Lorenzo Casas, Angel     
 master.menu.anonymous.favourite-link4= DNI: Apellidos, Nombre
 master.menu.anonymous.favourite-link5= DNI: Apellidos, Nombre
 # master.menu.administrator ###################################################
@@ -38,7 +39,7 @@ master.menu.provider = Provider
 master.menu.provider.favourite-link = 32732059T: López Ruz, Pedro
 master.menu.provider.favourite-link = 45998672Y: Ortiz Blanco, Manuel
 master.menu.provider.favourite-link = 53738719R: Carrasco Díaz, Carolina
-
+master.menu.provider.favourite-link = 54183920z: Lorenzo Casas, Angel
 
 # master.menu.consumer ##########################################################
 
@@ -46,7 +47,7 @@ master.menu.consumer = Consumer
 master.menu.consumer.favourite-link = 32732059T: López Ruz, Pedro
 master.menu.consumer.favourite-link = 45998672Y: Ortiz Blanco, Manuel
 master.menu.consumer.favourite-link = 53738719R: Carrasco Díaz, Carolina
-
+master.menu.provider.favourite-link = 54183920z: Lorenzo Casas, Angel
 
 # master.menu.user-account ####################################################
 
